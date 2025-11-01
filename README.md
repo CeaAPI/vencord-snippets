@@ -8,7 +8,7 @@
 ## List of Snippets
 | Snippet | Description | Preview |
 | :-----: | ----------- | :-----: |
-| [Compact Sidebar Buttons](CompactSidebarButtons) <hr> [Download](https://github.com/CeaAPI/vencord-snippets/raw/main/CompactSidebarButtons/CompactSidebarButtons.css) | Compacts the lesser-used navigation buttons at the top of the sidebar to icons, and fits them beside the Friends button. | <img width="50%" src='CompactSidebarButtons/before.webp'/><img width="50%" src='CompactSidebarButtons/after.webp'/> | |
+| [Compact Sidebar Buttons](CompactSidebarButtons) <hr> [Download](https://raw.githubusercontent.com/CeaAPI/vencord-snippets/main/CompactSidebarButtons/CompactSidebarButtons.css) | Compacts the lesser-used navigation buttons at the top of the sidebar to icons, and fits them beside the Friends button. | <img width="50%" src='CompactSidebarButtons/before.webp'/><img width="50%" src='CompactSidebarButtons/after.webp'/> | |
 
 ## Installation
 > [!NOTE]
