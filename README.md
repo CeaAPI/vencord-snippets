@@ -21,7 +21,7 @@
 - Right-click the <ins>Download</ins> link and click <ins>Save As</ins>.
 - Save the snippet wherever you like.
 - Open your Themes folder in Vencord.
- - User Settings > Themes (Vencord category) > Open Themes Folder
+  - User Settings > Themes (Vencord category) > Open Themes Folder
 - Drag n' Drop the downloaded snippet into the Themes folder.
 
 </details>
@@ -31,7 +31,7 @@
 
 - Right-click the <ins>Download</ins> link and click <ins>Copy Link</ins>.
 - Open your Themes folder in Vencord.
- - User Settings > Themes (Vencord category) > Open Themes Folder.
+  - User Settings > Themes (Vencord category) > Open Themes Folder.
 - Go to the <ins>Online Themes</ins> tab.
 - Paste the snippet link into a new line in the textbox.
 
@@ -40,11 +40,11 @@
 <details>
 <summary>QuickCSS</summary>
 
-- Click the <ins>Download</ins> link.
-- Copy all of the contents.
+- Right-click the <ins>Download</ins> link and click <ins>Copy Link</ins>.
 - Open your Themes folder in Vencord.
- - User Settings > Themes (Vencord category) > Open Themes Folder.
+  - User Settings > Themes (Vencord category) > Open Themes Folder.
 - Click on the <ins>Edit QuickCSS</ins> button.
-- Paste the snippet code into the QuickCSS editor.
+- Type `@import url("URL_HERE")`
+- Paste the snippet link in place of the 'URL_HERE' text.
 
 </details>
