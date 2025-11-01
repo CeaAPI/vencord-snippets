@@ -44,7 +44,7 @@
 - Open your Themes folder in Vencord.
   - User Settings > Themes (Vencord category) > Open Themes Folder.
 - Click on the <ins>Edit QuickCSS</ins> button.
-- Type `@import url("URL_HERE")`
+- Type `@import url("URL_HERE")` at the top of your QuickCSS.
 - Paste the snippet link in place of the 'URL_HERE' text.
 
 </details>
