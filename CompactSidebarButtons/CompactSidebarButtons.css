@@ -1,0 +1,35 @@
+/*
+ * @name ClientColor
+ * @author Cea.API
+ * @authorLink https://github.com/Cea.API
+ * @description Replaces the Grey client color with one of your choice.
+ * @license GNU GPLv3
+ * @authorId 485548700995682318
+ * @discord cea.api
+ */
+
+[aria-label="Direct Messages"] {
+    > div:nth-of-type(-n+4),
+    > li:nth-of-type(-n+1) {
+        display: inline-block;
+
+        [class^="avatar"],
+        [href^="/"] {
+            margin: 0;
+            padding: 5px;
+        }
+
+        [class^="name"],
+        [class^="newBadge"] {
+            display: none;
+        }
+    }
+    
+    > [class^="friendsButtonContainer"] {
+        width: calc(100% - 144px);
+
+        [class^="name"] {
+            display: block !important;
+        }
+    }
+}
