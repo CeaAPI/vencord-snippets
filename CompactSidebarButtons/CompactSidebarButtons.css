@@ -1,16 +1,15 @@
 /*
- * @name ClientColor
+ * @name CompactSidebarButtons
  * @author Cea.API
  * @authorLink https://github.com/Cea.API
- * @description Replaces the Grey client color with one of your choice.
- * @license GNU GPLv3
+ * @description Compacts some navigation buttons to icons, fitting them beside Friends button.
  * @authorId 485548700995682318
  * @discord cea.api
- */
+*/
 
 [aria-label="Direct Messages"] {
-    > div:nth-of-type(-n+4),
-    > li:nth-of-type(-n+1) {
+    >div:nth-of-type(-n+4),
+    >li:nth-of-type(-n+1) {
         display: inline-block;
 
         [class^="avatar"],
@@ -24,8 +23,8 @@
             display: none;
         }
     }
-    
-    > [class^="friendsButtonContainer"] {
+
+    >[class^="friendsButtonContainer"] {
         width: calc(100% - 144px);
 
         [class^="name"] {

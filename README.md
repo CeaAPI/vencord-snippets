@@ -3,12 +3,12 @@
 > [!WARNING]
 > Discord updates may break these snippets at any time.
 > Please be patient as I will likely fix it shortly.
-> If it remains an issue after a day, open an issue.
+> If the problem remains after a day, open an issue.
 
 ## List of Snippets
 | Snippet | Description | Preview |
 | :-----: | ----------- | :-----: |
-| [Compact Sidebar Buttons](CompactSidebarButtons) <hr> [Download](raw/main/CompactSidebarButtons/CompactSidebarButtons.css) | Compacts the lesser-used navigation buttons at the top of the sidebar to icons, and fits them beside the Friends button. | <img width="50%" src='CompactSidebarButtons/before.webp'/><img width="50%" src='CompactSidebarButtons/after.webp'/> | |
+| [Compact Sidebar Buttons](CompactSidebarButtons) <hr> [Download](https://github.com/CeaAPI/vencord-snippets/raw/main/CompactSidebarButtons/CompactSidebarButtons.css) | Compacts the lesser-used navigation buttons at the top of the sidebar to icons, and fits them beside the Friends button. | <img width="50%" src='CompactSidebarButtons/before.webp'/><img width="50%" src='CompactSidebarButtons/after.webp'/> | |
 
 ## Installation
 > [!NOTE]
