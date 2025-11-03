@@ -7,7 +7,7 @@
  * @discord cea.api
 */
 
-[aria-label="Direct Messages"] {
+nav[class^="privateChannels"] ul[role="list"] {
     >div:nth-of-type(-n+4),
     >li:nth-of-type(-n+1) {
         display: inline-block;
