@@ -8,7 +8,7 @@
 */
 
 nav[class^="privateChannels"] ul[role="list"] {
-    >div:nth-of-type(-n+4),
+    >div:nth-of-type(-n+5),
     >li:nth-of-type(-n+1) {
         display: inline-block;
 
@@ -25,10 +25,21 @@ nav[class^="privateChannels"] ul[role="list"] {
     }
 
     >[class^="friendsButtonContainer"] {
-        width: calc(100% - 144px);
+        width: calc(100% - 192px);
+		float: left;
 
         [class^="name"] {
             display: block !important;
+        }
+    }
+
+	/*>:nth-child(2) {*/
+	>[class^="friendsButtonContainer"]:has([aria-posinset="1"]) {
+        width: auto;
+		float: none;
+
+        [class^="name"] {
+            display: none !important;
         }
     }
 }
