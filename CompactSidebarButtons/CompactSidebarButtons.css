@@ -33,8 +33,7 @@ nav[class^="privateChannels"] ul[role="list"] {
         }
     }
 
-	/*>:nth-child(2) {*/
-	>[class^="friendsButtonContainer"]:has([aria-posinset="1"]) {
+	>:nth-child(2) {
         width: auto;
 		float: none;
 
